@@ -27,13 +27,13 @@ body, html {
 }
 
 .med {
-  width: 200%;
-  height: 200%;
+  width: 100%;
+  height: 100%;
 }
 
 .large {
-  width: 300%;
-  height: 300%;
+  width: 100%;
+  height: 100%;
 }
 
 h4 {
